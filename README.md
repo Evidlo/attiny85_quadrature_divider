@@ -18,8 +18,6 @@ Lowers encoder resolution so fast motor encoders can be read on slow devices (e.
 
 Set `DIVIDER` in `main.c` to control how much to divide input.
 
-# Building and Flashing
-
 ### Building
     make build
     
