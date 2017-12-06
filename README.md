@@ -3,6 +3,8 @@ Quadrature encoder divider for the ATtiny85.
 
 Lowers encoder resolution so fast motor encoders can be read on slow devices (e.g. Raspberry Pi).
 
+![](./scope.png)
+
     Pinout
     ------
                        ATTiny85
